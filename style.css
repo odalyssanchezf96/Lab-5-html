@@ -1,6 +1,17 @@
-p {
-  color: red;
+body{
+  font-family: sans-serif;
 }
 h1 {
-  color: #00800;
+  color: #008000;
+  background-color: #888888;
+  text-transform: uppercase;
+}
+p {
+  color: #0000FF;
+  font-size: 12px;
+  text-decoration: line-through;
+}
+h2 {
+  background-color: #888888;
+  text-decoration: underline;
 }
